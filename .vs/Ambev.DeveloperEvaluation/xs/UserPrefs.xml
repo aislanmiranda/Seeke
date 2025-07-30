@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|https">
+  <MonoDevelop.Ide.ItemProperties.Adapters.Drivers.WebApi.Ambev.DeveloperEvaluation.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tests/Ambev.DeveloperEvaluation.Unit/Application/CreateSaleHandlerTests.cs">
+    <Files>
+      <File FileName="tests/Ambev.DeveloperEvaluation.Unit/Application/CreateSaleHandlerTests.cs" Line="47" Column="11" />
+      <File FileName="src/Ambev.DeveloperEvaluation.Application/Sales/CreateSale/CreateSaleHandler.cs" Line="30" Column="69" />
+      <File FileName="src/Ambev.DeveloperEvaluation.Application/Sales/CreateSale/CreateSaleResult.cs" Line="5" Column="14" />
+      <File FileName="tests/Ambev.DeveloperEvaluation.Unit/Application/CreateUserHandlerTests.cs" Line="60" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ambev.DeveloperEvaluation" expanded="True">
+            <Node name="Adapters" expanded="True">
+              <Node name="Driven" expanded="True">
+                <Node name="Infrastructure" expanded="True" />
+              </Node>
+              <Node name="Drivers" expanded="True">
+                <Node name="WebApi" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Aplication" expanded="True">
+                <Node name="Ambev.DeveloperEvaluation.Application" expanded="True">
+                  <Node name="Sales" expanded="True">
+                    <Node name="CreateSale" expanded="True" />
+                  </Node>
+                  <Node name="Users" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Ambev.DeveloperEvaluation.Domain" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Tests" expanded="True">
+              <Node name="Unit" expanded="True">
+                <Node name="Ambev.DeveloperEvaluation.Unit" expanded="True">
+                  <Node name="Application" expanded="True">
+                    <Node name="TestData" expanded="True" />
+                    <Node name="CreateSaleHandlerTests.cs" selected="True" />
+                  </Node>
+                  <Node name="Domain" expanded="True">
+                    <Node name="Entities" expanded="True">
+                      <Node name="TestData" expanded="True" />
+                    </Node>
+                    <Node name="Specifications" expanded="True" />
+                    <Node name="Validation" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Ambev.DeveloperEvaluation" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

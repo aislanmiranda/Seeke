@@ -1,0 +1,71 @@
+# Build Results
+bin/
+obj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# ASP.NET
+wwwroot/lib/
+wwwroot/node_modules/
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.pidb
+*.svclog
+*.dbmdl
+*.pdb
+*.mdb
+
+# Entity Framework
+Migrations/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+*.psmdcp
+
+# Publish
+*.publishsettings
+PublishProfiles/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.vsp
+*.vspx
+*.vsix
+*.vsmdi
+*.testsettings
+*.cache
+*.tlog
+*.coveragejson
+
+# Others
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.dotCover
+*.ncrunch*
+*.sonarqube
